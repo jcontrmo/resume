@@ -3,6 +3,6 @@
     <title>My Latest Resume</title>
   </head>
   <body style="width:100%; height:100%; margin:0;">
-    <embed src=”https://github.com/jcontrmo/resume/blob/main/JuanResume2020a.pdf#page=2" type=”application/pdf” width=”100%” height=”100%”>
-  </body>
+        <iframe src="https://docs.google.com/gview?url= https://raw.githubusercontent.com/jcontrmo/resume/main/JuanResume2020a.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+   </body>
 </html>
