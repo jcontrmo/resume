@@ -1,10 +1,11 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
-<html lang="en" style="width:100%; height:100%;">
-<head>
-  <meta http-equiv="content-type" content="text/html; charset=utf-8">
-  <title>Juan Resume</title>
-</head>
-  <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://github.com/jcontrmo/resume/blob/main/JuanResume2020a.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
+<html>
+  <head>
+    <title>My Homepage</title>
+  </head>
+  <body>
+    <h1>My homepage!</h1>   
+    <h2>
+        ;)
+    </h2>
   </body>
 </html>
