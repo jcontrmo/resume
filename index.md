@@ -3,7 +3,6 @@
     <title>My Homepage</title>
   </head>
   <body style="width:100%; height:100%; margin:0;">
-    <iframe src="https://docs.google.com/gview?url=https://github.com/jcontrmo/resume/blob/main/JuanResume2020a.pdf&embedded=true" style="width:100%; height:100%;" frameborder="0">
-    </iframe>
+    <embed src=”https://github.com/jcontrmo/resume/blob/main/JuanResume2020a.pdf#page=2" type=”application/pdf” width=”100%” height=”100%”>
   </body>
 </html>
